@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "weather-wizard",
+    "name": "Weather Wizard",
     "slug": "weather-wizard",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A Simple Weather App. (Not Word-Friendly)",
+    "githubUrl": "https://github.com/vishwajeetraj11/weather-wizard"
   }
 }
